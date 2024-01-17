@@ -1,4 +1,4 @@
-Heyo! I'm John Derek Huertas - aka JD
+Heyo! I'm John Derek Huertas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" />
 ==========================================================================================================================================
 
 Student
